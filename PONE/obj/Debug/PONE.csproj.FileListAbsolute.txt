@@ -1,0 +1,7 @@
+G:\GEtREaDY\PONE\PONE\bin\PONE.dll.config
+G:\GEtREaDY\PONE\PONE\bin\PONE.dll
+G:\GEtREaDY\PONE\PONE\bin\PONE.pdb
+G:\GEtREaDY\PONE\PONE\obj\Debug\PONE.csprojAssemblyReference.cache
+G:\GEtREaDY\PONE\PONE\obj\Debug\PONE.csproj.CoreCompileInputs.cache
+G:\GEtREaDY\PONE\PONE\obj\Debug\PONE.dll
+G:\GEtREaDY\PONE\PONE\obj\Debug\PONE.pdb

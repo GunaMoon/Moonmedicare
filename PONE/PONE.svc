@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="PONE.Service1" CodeBehind="PONE.svc.cs" %>
