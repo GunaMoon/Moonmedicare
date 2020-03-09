@@ -1,0 +1,7 @@
+G:\GetReady2Medi\GetReady2Medi\bin\GetReady2Medi.dll.config
+G:\GetReady2Medi\GetReady2Medi\bin\GetReady2Medi.dll
+G:\GetReady2Medi\GetReady2Medi\bin\GetReady2Medi.pdb
+G:\GetReady2Medi\GetReady2Medi\obj\Debug\GetReady2Medi.csprojAssemblyReference.cache
+G:\GetReady2Medi\GetReady2Medi\obj\Debug\GetReady2Medi.csproj.CoreCompileInputs.cache
+G:\GetReady2Medi\GetReady2Medi\obj\Debug\GetReady2Medi.dll
+G:\GetReady2Medi\GetReady2Medi\obj\Debug\GetReady2Medi.pdb
